@@ -2,7 +2,7 @@
 
 Projeto de Programação de Sistemas II, 2026/2. Permite organizar requisitos como histórias de usuário, escrever critérios de aceite em Gherkin, registrar e avaliar sugestões de IA e exportar histórias em arquivos `.feature`.
 
-**Integrantes** — preencher os nomes do grupo antes do envio.
+**Integrante** — Lucas Bittencourt de Oliveira (RA 10409476).
 
 ## Executar no Windows
 
