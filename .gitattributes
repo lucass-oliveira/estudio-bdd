@@ -1,0 +1,4 @@
+* text=auto
+/api/mvnw text eol=lf
+/api/mvnw.cmd text eol=crlf
+*.png binary
