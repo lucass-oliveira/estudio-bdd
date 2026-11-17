@@ -11,6 +11,7 @@ Projeto de Programação de Sistemas II, 2026/2. Permite organizar requisitos co
 **Terminal 1 — banco e API.** Abra um PowerShell na raiz. O script usa o PostgreSQL 17 instalado no Windows, prepara um banco local na porta 55432 e define as variáveis da API no terminal. Se o PostgreSQL estiver instalado em outro local, passe `-PgBin` com o caminho da pasta `bin`.
 
 ```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
 .\scripts\banco-local.ps1
 Set-Location api
 .\mvnw.cmd spring-boot:run
