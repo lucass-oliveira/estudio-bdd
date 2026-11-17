@@ -1,5 +1,7 @@
 # Modelo de classes
 
+Versão em PDF para apresentação: [diagrama-classes.pdf](diagrama-classes.pdf).
+
 O domínio do Estúdio BDD usa as seis entidades do enunciado. As histórias registram requisitos de um projeto, e os cenários descrevem seus critérios de aceite. As sugestões conservam o conteúdo recebido da IA e as decisões tomadas pelos usuários.
 
 ```mermaid
